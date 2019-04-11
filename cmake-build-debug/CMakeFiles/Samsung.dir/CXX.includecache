@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/seong_nuri/CLionProjects/Samsung/2117 (홈 방범 서비스)/main.cpp
+cstdio
+-
+algorithm
+-
+

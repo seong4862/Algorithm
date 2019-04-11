@@ -1,0 +1,3 @@
+/Users/seong_nuri/CLionProjects/Samsung/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/seong_nuri/CLionProjects/Samsung/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/seong_nuri/CLionProjects/Samsung/cmake-build-debug/CMakeFiles/Samsung.dir
