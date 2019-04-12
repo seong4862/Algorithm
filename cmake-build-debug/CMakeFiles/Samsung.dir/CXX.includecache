@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/seong_nuri/CLionProjects/Samsung/2117 (홈 방범 서비스)/main.cpp
+/Users/seong_nuri/CLionProjects/Samsung/2382 (미생물 격리)/main.cpp
 cstdio
 -
+queue
+-
 algorithm
+-
+string.h
 -
 

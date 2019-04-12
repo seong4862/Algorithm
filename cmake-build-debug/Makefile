@@ -123,86 +123,32 @@ Samsung/fast:
 	$(MAKE) -f CMakeFiles/Samsung.dir/build.make CMakeFiles/Samsung.dir/build
 .PHONY : Samsung/fast
 
-1949_(등산로_조성)/main.o: 1949_(등산로_조성)/main.cpp.o
+2383_(점심_식사시간)/main.o: 2383_(점심_식사시간)/main.cpp.o
 
-.PHONY : 1949_(등산로_조성)/main.o
-
-# target to build an object file
-1949_(등산로_조성)/main.cpp.o:
-	$(MAKE) -f CMakeFiles/Samsung.dir/build.make "CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.o"
-.PHONY : 1949_(등산로_조성)/main.cpp.o
-
-1949_(등산로_조성)/main.i: 1949_(등산로_조성)/main.cpp.i
-
-.PHONY : 1949_(등산로_조성)/main.i
-
-# target to preprocess a source file
-1949_(등산로_조성)/main.cpp.i:
-	$(MAKE) -f CMakeFiles/Samsung.dir/build.make "CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.i"
-.PHONY : 1949_(등산로_조성)/main.cpp.i
-
-1949_(등산로_조성)/main.s: 1949_(등산로_조성)/main.cpp.s
-
-.PHONY : 1949_(등산로_조성)/main.s
-
-# target to generate assembly for a file
-1949_(등산로_조성)/main.cpp.s:
-	$(MAKE) -f CMakeFiles/Samsung.dir/build.make "CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.s"
-.PHONY : 1949_(등산로_조성)/main.cpp.s
-
-2117_(홈_방범_서비스)/main.o: 2117_(홈_방범_서비스)/main.cpp.o
-
-.PHONY : 2117_(홈_방범_서비스)/main.o
+.PHONY : 2383_(점심_식사시간)/main.o
 
 # target to build an object file
-2117_(홈_방범_서비스)/main.cpp.o:
-	$(MAKE) -f CMakeFiles/Samsung.dir/build.make "CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.o"
-.PHONY : 2117_(홈_방범_서비스)/main.cpp.o
+2383_(점심_식사시간)/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Samsung.dir/build.make "CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.o"
+.PHONY : 2383_(점심_식사시간)/main.cpp.o
 
-2117_(홈_방범_서비스)/main.i: 2117_(홈_방범_서비스)/main.cpp.i
+2383_(점심_식사시간)/main.i: 2383_(점심_식사시간)/main.cpp.i
 
-.PHONY : 2117_(홈_방범_서비스)/main.i
-
-# target to preprocess a source file
-2117_(홈_방범_서비스)/main.cpp.i:
-	$(MAKE) -f CMakeFiles/Samsung.dir/build.make "CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.i"
-.PHONY : 2117_(홈_방범_서비스)/main.cpp.i
-
-2117_(홈_방범_서비스)/main.s: 2117_(홈_방범_서비스)/main.cpp.s
-
-.PHONY : 2117_(홈_방범_서비스)/main.s
-
-# target to generate assembly for a file
-2117_(홈_방범_서비스)/main.cpp.s:
-	$(MAKE) -f CMakeFiles/Samsung.dir/build.make "CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.s"
-.PHONY : 2117_(홈_방범_서비스)/main.cpp.s
-
-2382_(미생물_격리)/main.o: 2382_(미생물_격리)/main.cpp.o
-
-.PHONY : 2382_(미생물_격리)/main.o
-
-# target to build an object file
-2382_(미생물_격리)/main.cpp.o:
-	$(MAKE) -f CMakeFiles/Samsung.dir/build.make "CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.o"
-.PHONY : 2382_(미생물_격리)/main.cpp.o
-
-2382_(미생물_격리)/main.i: 2382_(미생물_격리)/main.cpp.i
-
-.PHONY : 2382_(미생물_격리)/main.i
+.PHONY : 2383_(점심_식사시간)/main.i
 
 # target to preprocess a source file
-2382_(미생물_격리)/main.cpp.i:
-	$(MAKE) -f CMakeFiles/Samsung.dir/build.make "CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.i"
-.PHONY : 2382_(미생물_격리)/main.cpp.i
+2383_(점심_식사시간)/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Samsung.dir/build.make "CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.i"
+.PHONY : 2383_(점심_식사시간)/main.cpp.i
 
-2382_(미생물_격리)/main.s: 2382_(미생물_격리)/main.cpp.s
+2383_(점심_식사시간)/main.s: 2383_(점심_식사시간)/main.cpp.s
 
-.PHONY : 2382_(미생물_격리)/main.s
+.PHONY : 2383_(점심_식사시간)/main.s
 
 # target to generate assembly for a file
-2382_(미생물_격리)/main.cpp.s:
-	$(MAKE) -f CMakeFiles/Samsung.dir/build.make "CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.s"
-.PHONY : 2382_(미생물_격리)/main.cpp.s
+2383_(점심_식사시간)/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Samsung.dir/build.make "CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.s"
+.PHONY : 2383_(점심_식사시간)/main.cpp.s
 
 # Help Target
 help:
@@ -213,15 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Samsung"
-	@echo "... 1949_(등산로_조성)/main.o"
-	@echo "... 1949_(등산로_조성)/main.i"
-	@echo "... 1949_(등산로_조성)/main.s"
-	@echo "... 2117_(홈_방범_서비스)/main.o"
-	@echo "... 2117_(홈_방범_서비스)/main.i"
-	@echo "... 2117_(홈_방범_서비스)/main.s"
-	@echo "... 2382_(미생물_격리)/main.o"
-	@echo "... 2382_(미생물_격리)/main.i"
-	@echo "... 2382_(미생물_격리)/main.s"
+	@echo "... 2383_(점심_식사시간)/main.o"
+	@echo "... 2383_(점심_식사시간)/main.i"
+	@echo "... 2383_(점심_식사시간)/main.s"
 .PHONY : help
 
 

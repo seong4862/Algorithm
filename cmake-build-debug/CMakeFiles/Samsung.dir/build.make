@@ -57,60 +57,30 @@ include CMakeFiles/Samsung.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Samsung.dir/flags.make
 
-CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.o: CMakeFiles/Samsung.dir/flags.make
-CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.o: ../2117\ (홈\ 방범\ 서비스)/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/seong_nuri/CLionProjects/Samsung/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.o" -c "/Users/seong_nuri/CLionProjects/Samsung/2117 (홈 방범 서비스)/main.cpp"
+CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.o: CMakeFiles/Samsung.dir/flags.make
+CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.o: ../2383\ (점심\ 식사시간)/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/seong_nuri/CLionProjects/Samsung/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.o" -c "/Users/seong_nuri/CLionProjects/Samsung/2383 (점심 식사시간)/main.cpp"
 
-CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/seong_nuri/CLionProjects/Samsung/2117 (홈 방범 서비스)/main.cpp" > "CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.i"
+CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/seong_nuri/CLionProjects/Samsung/2383 (점심 식사시간)/main.cpp" > "CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.i"
 
-CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/seong_nuri/CLionProjects/Samsung/2117 (홈 방범 서비스)/main.cpp" -o "CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.s"
-
-CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.o: CMakeFiles/Samsung.dir/flags.make
-CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.o: ../2382\ (미생물\ 격리)/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/seong_nuri/CLionProjects/Samsung/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.o" -c "/Users/seong_nuri/CLionProjects/Samsung/2382 (미생물 격리)/main.cpp"
-
-CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/seong_nuri/CLionProjects/Samsung/2382 (미생물 격리)/main.cpp" > "CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.i"
-
-CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/seong_nuri/CLionProjects/Samsung/2382 (미생물 격리)/main.cpp" -o "CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.s"
-
-CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.o: CMakeFiles/Samsung.dir/flags.make
-CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.o: ../1949\ (등산로\ 조성)/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/seong_nuri/CLionProjects/Samsung/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.o" -c "/Users/seong_nuri/CLionProjects/Samsung/1949 (등산로 조성)/main.cpp"
-
-CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/seong_nuri/CLionProjects/Samsung/1949 (등산로 조성)/main.cpp" > "CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.i"
-
-CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/seong_nuri/CLionProjects/Samsung/1949 (등산로 조성)/main.cpp" -o "CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.s"
+CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/seong_nuri/CLionProjects/Samsung/2383 (점심 식사시간)/main.cpp" -o "CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.s"
 
 # Object files for target Samsung
 Samsung_OBJECTS = \
-"CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.o" \
-"CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.o" \
-"CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.o"
+"CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.o"
 
 # External object files for target Samsung
 Samsung_EXTERNAL_OBJECTS =
 
-Samsung: CMakeFiles/Samsung.dir/2117_(홈_방범_서비스)/main.cpp.o
-Samsung: CMakeFiles/Samsung.dir/2382_(미생물_격리)/main.cpp.o
-Samsung: CMakeFiles/Samsung.dir/1949_(등산로_조성)/main.cpp.o
+Samsung: CMakeFiles/Samsung.dir/2383_(점심_식사시간)/main.cpp.o
 Samsung: CMakeFiles/Samsung.dir/build.make
 Samsung: CMakeFiles/Samsung.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/seong_nuri/CLionProjects/Samsung/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Samsung"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/seong_nuri/CLionProjects/Samsung/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Samsung"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Samsung.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

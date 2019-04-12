@@ -80,13 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/seong_nuri/CLionProjects/Samsung/1949 (등산로 조성)/main.cpp">
-			<Option target="Samsung"/>
-		</Unit>
-		<Unit filename="/Users/seong_nuri/CLionProjects/Samsung/2117 (홈 방범 서비스)/main.cpp">
-			<Option target="Samsung"/>
-		</Unit>
-		<Unit filename="/Users/seong_nuri/CLionProjects/Samsung/2382 (미생물 격리)/main.cpp">
+		<Unit filename="/Users/seong_nuri/CLionProjects/Samsung/2383 (점심 식사시간)/main.cpp">
 			<Option target="Samsung"/>
 		</Unit>
 		<Unit filename="/Users/seong_nuri/CLionProjects/Samsung/CMakeLists.txt">
